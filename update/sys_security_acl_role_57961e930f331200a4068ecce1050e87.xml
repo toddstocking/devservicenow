@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-09 12:54:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>57961e930f331200a4068ecce1050e87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_24236_giddy_up_table.x_24236_giddy_up.user</sys_name>
+        <sys_package display_value="Giddy Up" source="x_24236_giddy_up">bd965a130f331200a4068ecce1050ef8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Giddy Up">bd965a130f331200a4068ecce1050ef8</sys_scope>
+        <sys_security_acl display_value="x_24236_giddy_up_table">df961e930f331200a4068ecce1050e85</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_57961e930f331200a4068ecce1050e87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-09 12:54:08</sys_updated_on>
+        <sys_user_role display_value="x_24236_giddy_up.user" name="x_24236_giddy_up.user">02961e930f331200a4068ecce1050e82</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

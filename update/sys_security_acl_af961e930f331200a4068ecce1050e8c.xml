@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_24236_giddy_up_table</description>
+        <name>x_24236_giddy_up_table</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-06-09 12:54:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>af961e930f331200a4068ecce1050e8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_24236_giddy_up_table</sys_name>
+        <sys_package display_value="Giddy Up" source="x_24236_giddy_up">bd965a130f331200a4068ecce1050ef8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Giddy Up">bd965a130f331200a4068ecce1050ef8</sys_scope>
+        <sys_update_name>sys_security_acl_af961e930f331200a4068ecce1050e8c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-06-09 12:54:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
